@@ -1,6 +1,12 @@
 # Description of your result
 
-You can describe your results in any language that is convenient for you, not just English.
+При открытии страницы с новостями данные загружаются из подготовленного мокового репозитория
+На экране списка новостей отображается:
+Карусель с Featured новостями (горизонтальный скролл)
+Список Latest news c последними новостями (вертикальный скролл)
+AppBar с кнопкой Mark all read
+Кнопка Mark all read при нажатии "читает все записи" помечает все записи как прочитанные
+При нажатии на новость из Featured или Latest news списка открывается страница с подробностями новости
 
 ## Description
 
