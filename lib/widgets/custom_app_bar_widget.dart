@@ -19,11 +19,10 @@ class CustomAppBarWidget extends StatelessWidget {
             children: [
               const Expanded(
                 child: Align(
-                  alignment: Alignment.centerLeft,
-                  child: Padding(
-                      padding: EdgeInsets.only(left: 20.0),
-                      child: Icon(Icons.arrow_back_ios)),
-                ),
+                    alignment: Alignment.centerLeft,
+                    child: Padding(
+                        padding: EdgeInsets.only(left: 20.0),
+                        child: Icon(Icons.arrow_back))),
               ),
               const Text(
                 'News',

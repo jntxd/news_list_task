@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 import 'package:news_list_task/bloc/get_one_new_bloc/get_one_new_bloc.dart';
 import 'package:news_list_task/const/colors.dart';
 import 'package:news_list_task/const/styles.dart';
@@ -117,10 +116,7 @@ class OneNewScreen extends StatelessWidget {
                     onTap: () {
                       Navigator.pop(context);
                     },
-                    child: SvgPicture.asset(
-                      'assets/icons/left_arrow.svg',
-                      color: AppColors.appbackgroundcolor,
-                    ),
+                    child: const Icon(Icons.arrow_back),
                   ),
                 ),
               ),
