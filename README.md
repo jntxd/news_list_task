@@ -10,7 +10,7 @@ AppBar с кнопкой Mark all read
 
 ## Description
 
-[Демонстрация работы]([url](https://drive.google.com/drive/folders/1dxUFN3QlO1sE_v_AEZJ9fFbwQCJx9KWI?usp=sharing))
+[Демонстрация работы]([(https://drive.google.com/drive/folders/1dxUFN3QlO1sE_v_AEZJ9fFbwQCJx9KWI?usp=sharing)])
 
 ## How to
 
